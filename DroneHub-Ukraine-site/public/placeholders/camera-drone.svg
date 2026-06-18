@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Camera drone placeholder</title>
+  <desc id="desc">Neutral technical illustration of a camera drone</desc>
+  <rect width="1200" height="900" fill="#101820"/>
+  <circle cx="600" cy="450" r="330" fill="#38bdf8" opacity=".05"/>
+  <g fill="none" stroke="#334155" stroke-width="34" stroke-linecap="round">
+    <path d="M450 410 250 270M750 410 950 270M450 500 250 630M750 500 950 630"/>
+  </g>
+  <g fill="#0f172a" stroke="#64748b" stroke-width="14">
+    <ellipse cx="225" cy="245" rx="150" ry="45"/>
+    <ellipse cx="975" cy="245" rx="150" ry="45"/>
+    <ellipse cx="225" cy="655" rx="150" ry="45"/>
+    <ellipse cx="975" cy="655" rx="150" ry="45"/>
+  </g>
+  <path d="M420 350h360l95 160-160 100H485L325 510Z" fill="#1e293b" stroke="#94a3b8" stroke-width="12"/>
+  <rect x="520" y="550" width="160" height="130" rx="34" fill="#020617" stroke="#fde047" stroke-width="10"/>
+  <circle cx="600" cy="615" r="42" fill="#0f172a" stroke="#38bdf8" stroke-width="12"/>
+  <path d="M500 390h200" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+</svg>
